@@ -27,4 +27,4 @@ Before running the project, ensure the following prerequisites are met:
 These libraries can be installed using the following command:
 
 ```bash
-pip install numpy pandas matplotlib seaborn requests statsmodels
+pip install numpy pandas matplotlib seaborn requests statsmodels chardet
